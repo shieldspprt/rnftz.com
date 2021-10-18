@@ -1,2 +1,0 @@
-# rnftz.com
-rnftzweb
